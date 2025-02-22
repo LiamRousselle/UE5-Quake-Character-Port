@@ -1,5 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
+# Intellij Rider
+.idea/
 
 # Compiled Object files
 *.slo
