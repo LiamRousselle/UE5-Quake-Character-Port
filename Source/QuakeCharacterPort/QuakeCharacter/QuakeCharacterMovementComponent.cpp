@@ -1,5 +1,4 @@
 ﻿#include "QuakeCharacterMovementComponent.h"
-
 #include "Components/CapsuleComponent.h"
 
 UQuakeCharacterMovementComponent::UQuakeCharacterMovementComponent()
